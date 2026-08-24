@@ -1,4 +1,4 @@
-baseURL = 'https://kaoru13th.github.io/fred_sucker/'
+baseURL = 'https://github.com/13thpictures/fred_sucker.git'
 languageCode = 'ru-ru'
 title = 'все комиксы'
 theme = 'gallery'
